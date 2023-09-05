@@ -1,2 +1,2 @@
-# Temperature Converter
-Converts an inputted temperature in Fahrenheit to its equivalent temperature in Celsius
+# C++ Projects
+A collection of mini C++ projects done while following the "Learn C++" course on Codecademy
